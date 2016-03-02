@@ -1,2 +1,6 @@
 # hello-world
-My first GitHub repository.
+
+Hello!
+
+This is my first GitHub edit in my first GitHub repository in my first GitHub project.
+
